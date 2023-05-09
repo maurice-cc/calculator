@@ -4,6 +4,7 @@
   align-items: center;
   height: 100vh;
   font-family: Arial, sans-serif;
+  background-color: slategray;
 }
 
 .calculator {
@@ -49,7 +50,6 @@ button.zero {
 }
 
 button.equals {
-  
   background-color: #f66;
 }
 
