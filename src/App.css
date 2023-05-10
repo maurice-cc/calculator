@@ -45,14 +45,30 @@ button:active {
   background-color: #555;
 }
 
-button.zero {
+.zero {
   grid-column: 1 / span 2;
 }
 
-button.equals {
+.equals {
   background-color: #f66;
 }
 
-button.equals:active {
+.equals:active {
   background-color: #f77;
+}
+
+.operator {
+  background-color: rgb(210, 120, 64);
+}
+
+.operator:active {
+  background-color: rgb(212, 135, 86);
+}
+
+.method {
+  background-color: #707070;
+}
+
+.method:active {
+  background-color: #838383;
 }
